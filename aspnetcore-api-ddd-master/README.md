@@ -1,17 +1,13 @@
-# aspnetcore-api-ddd
+Simple web API project in ASP.NET Core applying concepts from the DDD structure.
 
-Projeto simples de web API em ASP.NET Core aplicando conceitos da estrutura DDD.
+Project Description
+Cross-platform API with ASP.NET Core 3.1 using C# as the programming language, DDD architecture for modeling, SQL SERVER for the database, and Entity Framework Core as the ORM for mapping between DTO (Data Transfer Object) and Domain Models using AutoMapper.
 
-## Descrição do Projeto
+Implemented JWT (JSON Web Token) for generating tokens to be consumed with external applications or Front-End.
 
-API multiplataforma com ASP.NET Core 3.1 utilizando C# como linguagem de Programação, arquitetura DDD para modelagem, SQL SERVER para banco de dados e o ORM utilizado será o Entity Framework Core, para Mapeamento entre DTO (Data Transfer Object)   e Modelos do Domínio foi utilizado o AutoMapper.
+Used Swagger to document the API.
 
-Implementado JWT (JSON Web Token) para geração dos Tokens para ser consumida com aplicação externa ou Front-End.
+Can be executed on Windows, Linux, and Mac.
 
-Utilizado Swagger para documentar a API.
-
-
-Pode ser executado no Windows, Linux e Mac.
-
-## Licença
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
